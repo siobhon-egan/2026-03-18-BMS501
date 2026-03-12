@@ -1,14 +1,13 @@
 ---
 title: "BMS501 - Case mapping"
 author: "Siobhon Egan"
-date: "March 2026"
+date: "18 March 2026"
 format:
   html:
     toc: true
     toc-float: true
     toc-depth: 4 # Adjust this number to include all header levels you need
 ---
-
 
 Spatial aspects of your data can provide a lot of insights into the situation of the outbreak, and to answer questions such as:
 
